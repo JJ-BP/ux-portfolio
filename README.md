@@ -1,6 +1,6 @@
-# 👋 Hi, I’m [Your Name]
+# 👋 HEY, I’m Jess!
 
-Welcome to my UX Design Portfolio!  
+Welcome to my UX Research Portfolio!  
 Here are selected case studies that show my research, process, and outcomes.
 
 ## 🌟 Projects
@@ -12,5 +12,5 @@ I’m a UX designer who focuses on research-led, accessible, and scalable design
 👉 [More about me](./about.md)
 
 ## 📫 Contact
-- LinkedIn: https://linkedin.com/in/yourusername  
-- Email: mailto:your@email.com
+- LinkedIn: www.linkedin.com/in/jess-blondel-painter  
+- Email: jpain27@gmail.com
