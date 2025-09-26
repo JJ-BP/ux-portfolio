@@ -1,4 +1,4 @@
-# 👋 HEY, I’m Jess!
+# (profile/ChatGPT Image May 7, 2025, 01_18_49 PM.png) HEY, I’m Jess!
 
 Welcome to my UX Research Portfolio!  
 Here are selected case studies that show my research, process, and outcomes.
