@@ -1,4 +1,4 @@
-# Project: Redesigning a Mobile Banking App
+# Project: Redesigning VUE.JS Paris website and app
 
 ## Overview
 Goal: make key tasks (checking balance, transferring money) easier for first-time users.
