@@ -16,7 +16,7 @@ Goal: make key tasks (checking balance, transferring money) easier for first-tim
 - Simplified navigation
 - Redesigned transaction history
 
-![Wireframe](./images/wireframe.png)
+![View project](./project1/images.png)
 ![Mockup](./images/final-mockup.png)
 
 ## Outcome
